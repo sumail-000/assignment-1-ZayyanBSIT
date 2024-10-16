@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "attendanceMan", "attendanceMan\attendanceMan.csproj", "{E319A46E-B09F-4D0C-A372-0917B7C5C904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E319A46E-B09F-4D0C-A372-0917B7C5C904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E319A46E-B09F-4D0C-A372-0917B7C5C904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E319A46E-B09F-4D0C-A372-0917B7C5C904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E319A46E-B09F-4D0C-A372-0917B7C5C904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {695D3E86-C3DF-43E9-908F-181A3257939F}
+	EndGlobalSection
+EndGlobal

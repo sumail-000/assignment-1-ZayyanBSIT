@@ -1,0 +1,10 @@
+C:\Users\UsEr\source\repos\attendanceMan\attendanceMan\bin\Debug\attendanceMan.exe.config
+C:\Users\UsEr\source\repos\attendanceMan\attendanceMan\bin\Debug\attendanceMan.exe
+C:\Users\UsEr\source\repos\attendanceMan\attendanceMan\bin\Debug\attendanceMan.pdb
+C:\Users\UsEr\source\repos\attendanceMan\attendanceMan\obj\Debug\attendanceMan.csproj.AssemblyReference.cache
+C:\Users\UsEr\source\repos\attendanceMan\attendanceMan\obj\Debug\attendanceMan.Properties.Resources.resources
+C:\Users\UsEr\source\repos\attendanceMan\attendanceMan\obj\Debug\attendanceMan.csproj.GenerateResource.cache
+C:\Users\UsEr\source\repos\attendanceMan\attendanceMan\obj\Debug\attendanceMan.csproj.CoreCompileInputs.cache
+C:\Users\UsEr\source\repos\attendanceMan\attendanceMan\obj\Debug\attendanceMan.exe
+C:\Users\UsEr\source\repos\attendanceMan\attendanceMan\obj\Debug\attendanceMan.pdb
+C:\Users\UsEr\source\repos\attendanceMan\attendanceMan\obj\Debug\attendanceMan.frmLogin.resources

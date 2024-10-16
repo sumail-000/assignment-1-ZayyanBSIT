@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\repos\\attendanceMan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E319A46E-B09F-4D0C-A372-0917B7C5C904}|attendanceMan\\attendanceMan.csproj|C:\\Users\\Administrator\\Downloads\\repos\\attendanceMan\\attendanceman\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E319A46E-B09F-4D0C-A372-0917B7C5C904}|attendanceMan\\attendanceMan.csproj|solutionrelative:attendanceman\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E319A46E-B09F-4D0C-A372-0917B7C5C904}|attendanceMan\\attendanceMan.csproj|c:\\users\\administrator\\downloads\\repos\\attendanceman\\attendanceman\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E319A46E-B09F-4D0C-A372-0917B7C5C904}|attendanceMan\\attendanceMan.csproj|solutionrelative:attendanceman\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E319A46E-B09F-4D0C-A372-0917B7C5C904}|attendanceMan\\attendanceMan.csproj|C:\\Users\\Administrator\\Downloads\\repos\\attendanceMan\\attendanceman\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E319A46E-B09F-4D0C-A372-0917B7C5C904}|attendanceMan\\attendanceMan.csproj|solutionrelative:attendanceman\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 133,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\repos\\attendanceMan\\attendanceMan\\Form1.cs",
+              "RelativeDocumentMoniker": "attendanceMan\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\repos\\attendanceMan\\attendanceMan\\Form1.cs [Design]",
+              "RelativeToolTip": "attendanceMan\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:36:08.437Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\repos\\attendanceMan\\attendanceMan\\Form1.cs",
+              "RelativeDocumentMoniker": "attendanceMan\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\repos\\attendanceMan\\attendanceMan\\Form1.cs",
+              "RelativeToolTip": "attendanceMan\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:45:05.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dashbord.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\repos\\attendanceMan\\attendanceMan\\dashbord.cs",
+              "RelativeDocumentMoniker": "attendanceMan\\dashbord.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\repos\\attendanceMan\\attendanceMan\\dashbord.cs [Design]",
+              "RelativeToolTip": "attendanceMan\\dashbord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:47:59.216Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

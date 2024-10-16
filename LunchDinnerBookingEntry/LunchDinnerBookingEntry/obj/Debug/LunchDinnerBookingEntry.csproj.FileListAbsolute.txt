@@ -1,0 +1,10 @@
+C:\Users\UsEr\source\repos\LunchDinnerBookingEntry\LunchDinnerBookingEntry\bin\Debug\LunchDinnerBookingEntry.exe.config
+C:\Users\UsEr\source\repos\LunchDinnerBookingEntry\LunchDinnerBookingEntry\bin\Debug\LunchDinnerBookingEntry.exe
+C:\Users\UsEr\source\repos\LunchDinnerBookingEntry\LunchDinnerBookingEntry\bin\Debug\LunchDinnerBookingEntry.pdb
+C:\Users\UsEr\source\repos\LunchDinnerBookingEntry\LunchDinnerBookingEntry\obj\Debug\LunchDinnerBookingEntry.csproj.AssemblyReference.cache
+C:\Users\UsEr\source\repos\LunchDinnerBookingEntry\LunchDinnerBookingEntry\obj\Debug\LunchDinnerBookingEntry.Form1.resources
+C:\Users\UsEr\source\repos\LunchDinnerBookingEntry\LunchDinnerBookingEntry\obj\Debug\LunchDinnerBookingEntry.Properties.Resources.resources
+C:\Users\UsEr\source\repos\LunchDinnerBookingEntry\LunchDinnerBookingEntry\obj\Debug\LunchDinnerBookingEntry.csproj.GenerateResource.cache
+C:\Users\UsEr\source\repos\LunchDinnerBookingEntry\LunchDinnerBookingEntry\obj\Debug\LunchDinnerBookingEntry.csproj.CoreCompileInputs.cache
+C:\Users\UsEr\source\repos\LunchDinnerBookingEntry\LunchDinnerBookingEntry\obj\Debug\LunchDinnerBookingEntry.exe
+C:\Users\UsEr\source\repos\LunchDinnerBookingEntry\LunchDinnerBookingEntry\obj\Debug\LunchDinnerBookingEntry.pdb
